@@ -1,0 +1,364 @@
+ERROR - 2017-05-11 14:12:07 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 15:13:18 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-11 15:13:24 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-11 15:17:21 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 15:18:14 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 15:18:16 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 15:32:47 --> Severity: Parsing Error --> syntax error, unexpected 'candidate_id' (T_STRING) C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 213
+ERROR - 2017-05-11 15:32:58 --> Severity: Parsing Error --> syntax error, unexpected 'candidate_id' (T_STRING) C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 213
+ERROR - 2017-05-11 15:49:55 --> Severity: Parsing Error --> syntax error, unexpected 'candidate_id' (T_STRING) C:\wamp64\www\myopeneyes\application\views\admin\candidates\list.php 213
+ERROR - 2017-05-11 16:25:57 --> Severity: Notice --> Undefined variable: data C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 122
+ERROR - 2017-05-11 16:26:04 --> Severity: Notice --> Undefined variable: data C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 122
+ERROR - 2017-05-11 15:49:37 --> 404 Page Not Found: admin/Joborders/assign
+ERROR - 2017-05-11 16:53:17 --> Severity: Notice --> Undefined property: Joborders::$candidates_model C:\wamp64\www\myopeneyes\application\controllers\admin\Joborders.php 526
+ERROR - 2017-05-11 16:53:17 --> Severity: Error --> Call to a member function get_all() on null C:\wamp64\www\myopeneyes\application\controllers\admin\Joborders.php 526
+ERROR - 2017-05-11 17:04:31 --> Query error: Unknown column 'joborder_id' in 'order clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS *
+            FROM candidate
+            WHERE deleted = '0'
+         ORDER BY joborder_id asc LIMIT 0, 10
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates tooltip add_new_user"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates button add_new_user"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates col candidate_id"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates col first name"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates col last name"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates col city"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates input state"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates input company key skills"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates input company date created"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates input first name"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates input last name"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates input city"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates input state"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates input company key skills"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates input company date created"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title client_delete"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates msg delete_confirm"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title assign"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title client_delete"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates msg delete_confirm"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title assign"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title client_delete"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates msg delete_confirm"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title assign"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title client_delete"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates msg delete_confirm"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title assign"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title client_delete"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates msg delete_confirm"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title assign"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title client_delete"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates msg delete_confirm"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title assign"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title client_delete"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates msg delete_confirm"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title assign"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title client_delete"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates msg delete_confirm"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title assign"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title client_delete"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates msg delete_confirm"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title assign"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title client_delete"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates msg delete_confirm"
+ERROR - 2017-05-11 17:05:29 --> Could not find the language line "candidates title assign"
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:13:50 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 214
+ERROR - 2017-05-11 17:16:09 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 217
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:17:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:30:04 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:30:05 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:30:05 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:30:05 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:30:05 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:30:05 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:30:05 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:30:05 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:30:05 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:34:54 --> Query error: Unknown column 'C.joborder_id' in 'on clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS *
+            FROM candidate as C  LEFT JOIN candidate_assign as CA ON C.joborder_id = CA.joborder_id  WHERE C.deleted = '0'  ORDER BY candidate_id asc LIMIT 0, 10
+ERROR - 2017-05-11 17:35:19 --> Query error: Unknown column 'C.joborder_id' in 'on clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS *
+            FROM candidate as C  LEFT JOIN candidate_assign as CA ON C.joborder_id = CA.joborder_id  WHERE C.deleted = '0'  ORDER BY candidate_id asc LIMIT 0, 10
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:38:17 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:38:21 --> Query error: Unknown column 'C.joborder_id' in 'on clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS *
+            FROM candidate as C  LEFT JOIN candidate_assign as CA ON C.joborder_id = CA.joborder_id  WHERE C.deleted = '0'  ORDER BY candidate_id asc LIMIT 0, 10
+ERROR - 2017-05-11 17:47:06 --> Query error: Column 'candidate_id' in order clause is ambiguous - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS *
+            FROM candidate as C  LEFT JOIN candidate_assign as CA ON C.candidate_id  = CA.candidate_id   WHERE C.deleted = '0'  ORDER BY candidate_id asc LIMIT 0, 10
+ERROR - 2017-05-11 17:47:25 --> Query error: Column 'candidate_id' in order clause is ambiguous - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS *
+            FROM candidate as C  LEFT JOIN candidate_assign as CA ON C.candidate_id = CA.candidate_id  WHERE C.deleted = '0'  ORDER BY candidate_id asc LIMIT 0, 10
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:48:59 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:49:42 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:49:42 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:49:42 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:49:42 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:49:58 --> Query error: Unknown column 'candidate_id' in 'order clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS j.* , c.name as 'company_name'
+            FROM joborder as j LEFT JOIN clients as c ON 
+			j.client_id = c.client_id 
+            WHERE c.deleted = '0'
+         ORDER BY candidate_id asc LIMIT 0, 10
+ERROR - 2017-05-11 17:50:04 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:50:04 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:50:04 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:50:04 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:50:07 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:50:07 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:50:07 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:50:07 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:51:38 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:51:38 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:51:38 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:51:38 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:52:15 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:52:15 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:52:15 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:52:15 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:57:35 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:57:35 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:57:35 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:57:35 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:57:49 --> Query error: Unknown column 'candidate_id' in 'order clause' - Invalid query: 
+            SELECT SQL_CALC_FOUND_ROWS j.* , c.name as 'company_name'
+            FROM joborder as j LEFT JOIN clients as c ON 
+			j.client_id = c.client_id 
+            WHERE c.deleted = '0'
+         ORDER BY candidate_id asc LIMIT 0, 10
+ERROR - 2017-05-11 17:58:01 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:58:01 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:58:01 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:58:01 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:58:03 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:58:03 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 17:58:03 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 17:58:03 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:00:37 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:00:37 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:00:37 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:00:37 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:00:58 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:00:58 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:00:58 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:00:58 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:01:12 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:01:12 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:01:12 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:01:12 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:01:19 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:01:19 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:01:24 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:01:24 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:01:24 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:01:24 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:02:34 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:02:34 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:02:34 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:02:34 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:02:42 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:02:42 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:02:45 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:02:45 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:02:45 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:02:45 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:04:39 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:04:39 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:04:41 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:04:41 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:04:41 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:04:41 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:06:55 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:06:55 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:06:55 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 203
+ERROR - 2017-05-11 18:06:55 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 206
+ERROR - 2017-05-11 18:07:23 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:07:23 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:07:23 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:07:23 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:07:30 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:07:30 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:07:30 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:07:30 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:13:41 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:13:41 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:13:41 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:13:41 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:32:16 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:32:16 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:32:16 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:32:16 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:38:26 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:38:26 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:38:26 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:38:26 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:38:34 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:38:34 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:38:34 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:38:34 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:39:18 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:39:18 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 18:39:18 --> Severity: Notice --> Undefined variable: clientList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 199
+ERROR - 2017-05-11 18:39:18 --> Severity: Notice --> Undefined variable: jobOrdersList C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 202
+ERROR - 2017-05-11 19:10:08 --> Severity: Parsing Error --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 186
+ERROR - 2017-05-11 19:10:23 --> Severity: Parsing Error --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 186
+ERROR - 2017-05-11 19:10:39 --> Severity: Parsing Error --> syntax error, unexpected '=>' (T_DOUBLE_ARROW) C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 186
+ERROR - 2017-05-11 19:28:19 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-11 19:28:21 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-11 19:28:24 --> Could not find the language line "menus input name"
+ERROR - 2017-05-11 19:28:28 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-11 19:28:29 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-11 20:16:28 --> Severity: Parsing Error --> syntax error, unexpected 'id' (T_STRING), expecting ')' C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 182
+ERROR - 2017-05-11 20:17:39 --> Severity: Parsing Error --> syntax error, unexpected '=>' (T_DOUBLE_ARROW) C:\wamp64\www\myopeneyes\application\views\admin\joborders\assign-candidate-list.php 181
+ERROR - 2017-05-11 20:33:39 --> 404 Page Not Found: Themes/admin
+ERROR - 2017-05-11 22:02:38 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-11 22:02:40 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-11 22:02:41 --> Could not find the language line "contacts col contact_id"

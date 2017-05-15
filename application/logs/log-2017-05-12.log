@@ -1,0 +1,19 @@
+ERROR - 2017-05-12 19:49:18 --> Could not find the language line "clients col client_id"
+ERROR - 2017-05-12 20:09:03 --> Severity: Notice --> Trying to get property of non-object C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 129
+ERROR - 2017-05-12 20:09:17 --> Severity: Notice --> Trying to get property of non-object C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 129
+ERROR - 2017-05-12 20:10:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 129
+ERROR - 2017-05-12 20:10:29 --> Severity: Notice --> Trying to get property of non-object C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 129
+ERROR - 2017-05-12 20:11:26 --> Severity: Notice --> Trying to get property of non-object C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 129
+ERROR - 2017-05-12 20:13:31 --> Severity: Parsing Error --> syntax error, unexpected end of file, expecting function (T_FUNCTION) C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 312
+ERROR - 2017-05-12 20:16:03 --> Severity: Parsing Error --> syntax error, unexpected end of file, expecting function (T_FUNCTION) C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 309
+ERROR - 2017-05-12 20:32:33 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 311
+ERROR - 2017-05-12 20:33:10 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 311
+ERROR - 2017-05-12 20:39:58 --> Severity: Notice --> Use of undefined constant sqlT - assumed 'sqlT' C:\wamp64\www\myopeneyes\application\models\Candidateassigns_model.php 128
+ERROR - 2017-05-12 20:39:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sqlT' at line 1 - Invalid query: sqlT
+ERROR - 2017-05-12 20:50:15 --> Could not find the language line "contacts col contact_id"
+ERROR - 2017-05-12 20:55:34 --> Severity: Notice --> Undefined index: is_public C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 136
+ERROR - 2017-05-12 20:55:34 --> Severity: Notice --> Undefined index: is_hot C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 137
+ERROR - 2017-05-12 20:55:34 --> Severity: Notice --> Undefined index: is_admin_hiden C:\wamp64\www\myopeneyes\application\models\Joborders_model.php 139
+ERROR - 2017-05-12 20:55:34 --> Query error: Column 'is_public' cannot be null - Invalid query: INSERT INTO `joborder` (`title`, `client_id`, `city`, `state`, `recruiter`, `start_date`, `duration`, `rate_max`, `pay_rate`, `openings`, `client_job_id`, `key_skills`, `description`, `notes`, `position_type`, `visa_type`, `is_public`, `is_hot`, `is_active`, `is_admin_hiden`, `created_by`, `created_on`) VALUES ('Android Developer', '2', 'Queens', 'Gujarat', '7', '2017-05-24', '6', '33', '44', '3', 'sdf', '', '', '', 'H', 'B1', NULL, NULL, '1', NULL, '1', '2017-05-12 20:55:34')
+ERROR - 2017-05-12 21:36:19 --> Severity: Error --> Call to undefined method Joborders_model::getJobList() C:\wamp64\www\myopeneyes\application\controllers\Ajax.php 201
+ERROR - 2017-05-12 21:36:26 --> Severity: Error --> Call to undefined method Joborders_model::getJobList() C:\wamp64\www\myopeneyes\application\controllers\Ajax.php 201
